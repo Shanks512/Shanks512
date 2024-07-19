@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! I'm Shankar 👋 
 
-<!--
-**Shanks512/Shanks512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a passion for building scalable systems.
 
-Here are some ideas to get you started:
+## What I Do
+- 🏦 Architecting microservices for financial trading platforms at JP Morgan Chase
+- 🚀 Crafting high-performance, cloud-ready applications
+- 💻 Full-stack development with 6+ years of experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Adventures
+Previously at JP Morgan Chase, I worked on high-performance trading systems and developed real-time analytics tools. I love solving complex challenges and making systems more efficient!
+
+## Education
+🎓 M.S. in Computer Science from Arizona State University
+
+## When I'm Not Coding
+I’m diving into sci-fi books, exploring new tech, or enjoying a good cup of coffee ☕. I’m always up for a chat or collaboration – feel free to connect!
+
+## Let's Connect 📫
+Feel free to reach out
+- **Email:** [shankar.harin@gmail.com](mailto:shankar.harin@gmail.com)  
+- **LinkedIn:** [Shankar Harinarayanan](https://www.linkedin.com/in/shankarharin)  
+
+Thanks for visiting! 😊
