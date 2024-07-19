@@ -1,4 +1,4 @@
-# Hey there! I'm Shankar 👋 
+# Hey there 👋 
 
 I'm a Software Engineer with a passion for building scalable systems.
 
