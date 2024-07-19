@@ -3,15 +3,15 @@
 I'm a Software Engineer with a passion for building scalable systems.
 
 ## What I Do
-- 🏦 Architecting microservices for financial trading platforms at JP Morgan Chase
-- 🚀 Crafting high-performance, cloud-ready applications
-- 💻 Full-stack development with 6+ years of experience
+- 🏦 Architecting microservices for financial platforms
+- 🚀 Crafting high-performance, cloud-ready full-stack applications
+- 💻 Full-stack development with over 6 years of experience
 
 ## Past Adventures
 Previously at JP Morgan Chase, I worked on high-performance trading systems and developed real-time analytics tools. I love solving complex challenges and making systems more efficient!
 
 ## Education
-🎓 M.S. in Computer Science from Arizona State University
+🎓 M.S. in Computer Science from Arizona State University ('24)
 
 ## When I'm Not Coding
 I’m diving into sci-fi books, exploring new tech, or enjoying a good cup of coffee ☕. I’m always up for a chat or collaboration – feel free to connect!
