@@ -11,7 +11,7 @@ I'm a Software Engineer with a passion for building scalable systems.
 Previously at JP Morgan Chase, I worked on high-performance trading systems and developed real-time analytics tools. I love solving complex challenges and making systems more efficient!
 
 ## Education
-- 🎓 M.S. in Computer Science from Arizona State University
+- 🎓 M.S. in Computer Science from Arizona State University (Concentration in Big Data Systems)
 - 🎓 B.E in Electrical and Electronics Engineering from BITS Pilani
 
 ## When I'm Not Coding
