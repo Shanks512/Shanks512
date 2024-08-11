@@ -5,6 +5,4 @@ I'm Shankar, a Full Stack Software Engineer with a passion for building scalable
 When I'm not coding, I’m diving into sci-fi books, exploring new tech, or enjoying a good cup of coffee ☕. I’m always up for a chat or collaboration – feel free to connect!
 
 - **Email:** [shankar.harin@gmail.com](mailto:shankar.harin@gmail.com)  
-- **LinkedIn:** [Shankar Harinarayanan](https://www.linkedin.com/in/shankarharin)  
-
-Thanks for visiting! 😊
+- **LinkedIn:** [Shankar Harinarayanan](https://www.linkedin.com/in/shankarharin)
